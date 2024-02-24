@@ -1,0 +1,122 @@
+body {
+  
+}
+
+header {
+  border-radius: 16px;
+  background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(../images/Banner\ Image.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 1320px;
+  height: 600px;
+  border-radius: 16px;
+
+}
+
+.banner-title {
+  color: #FFF;
+  text-align: center;
+  font-family: "Merriweather", serif;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 100px;
+}
+
+.banner-desc {
+  color: #FFF;
+  text-align: center;
+  font-family: "Merriweather", serif;
+  font-size: 72px;
+  font-weight: 900;
+  line-height: 95px;
+}
+
+/* main section csss */
+
+
+/* section-1 */
+
+
+.section-1-head {
+  color: #F00;
+  text-align: center;
+  font-family: inter;
+  font-size: 88px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.sec-1-desc {
+  color: #F00;
+  text-align: center;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.sec-1-title {
+  color: #070211;
+  text-align: center;
+  font-family: Inter;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.section-1 img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* section-22222222 */
+
+.section-2 {
+  background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../images/Vectorrr.png');
+  width: 1320px;
+  height: 600px;
+  flex-shrink: 0;
+
+
+}
+
+.sec-2-head {
+  color: #FFF;
+  font-family: Merriweather;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 88px;
+  letter-spacing: 7.04px;
+  width: 642px;
+  padding-top: 125px;
+  padding-left: 125px;
+}
+
+.sec-2-desc{
+  color: rgba(255, 255, 255, 0.80);
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+width: 697px;
+  padding-left: 125px;
+}
+
+.sec-2-join{
+  color: #FFF;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+padding-left: 125px;
+padding-top: 20px;
+}
